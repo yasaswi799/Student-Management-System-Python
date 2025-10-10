@@ -1,5 +1,3 @@
-# Student-Management-System-Python
-A Python command-line project to manage student records using CSV file
 # Student Management System - Python Project
 
 ## **Project Overview**
