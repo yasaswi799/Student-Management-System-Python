@@ -6,7 +6,7 @@ The Student Management System is a **command-line Python application** designed 
 ---
 
 ## **Purpose**
-This project was created to practice **Python programming**, **file handling**, and **data management using CSV files**. It demonstrates how to build a small-scale CRUD (Create, Read, Update, Delete) application with persistent storage.
+This project was created to practice **Python programming**, **file handling**, and **data management using CSV file**. It demonstrates how to build a small-scale CRUD (Create, Read, Update, Delete) application with persistent storage.
 
 ---
 
