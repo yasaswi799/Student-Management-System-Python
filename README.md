@@ -19,6 +19,11 @@ This project was created to practice **Python programming**, **file handling**, 
 - **Persistent Storage** – All data is saved in a CSV file for long-term storage.
 
 ---
+## **Project Screenshot**
+
+![Student Management System Screenshot](Student_Management_System_Screenshot.png)
+
+---
 
 ## **How to Run the Project**
 1. Clone the repository:
