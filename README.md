@@ -21,7 +21,7 @@ This project was created to practice **Python programming**, **file handling**, 
 ---
 ## **Project Screenshot**
 
-![Student Management System Screenshot](Student_Management_System_Screenshot.png)
+![Student Management System Screenshot](Student_management_system_screenshot.png)
 
 ---
 
